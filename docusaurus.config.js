@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {
             href: 'https://royalfamilygaming.com',
@@ -89,11 +89,11 @@ const config = {
             items: [
               {
                 label: 'Rules',
-                to: '/docs/rules',
+                to: '/docs/rules/global',
               },
-			  {
+              {
                 label: 'Commands',
-                to: '/docs/commands',
+                to: '/docs/commands/vanilla-servers',
               },
             ],
           },
@@ -108,7 +108,7 @@ const config = {
                 label: 'X',
                 href: 'https://x.com/RoyalFamilyRust',
               },
-			  {
+              {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/royal.family.gaming',
               },
@@ -119,7 +119,7 @@ const config = {
               {
                 label: 'News',
                 href: 'https://royalfamilygaming.com/news',
-              },			  
+              },              
             ],
           },
         ],
