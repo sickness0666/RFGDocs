@@ -86,11 +86,6 @@ const config = {
             label: 'Tutorial',
           },
           {
-			  to: '/blog', 
-			  label: 'Blog', 
-			  position: 'left'
-		  },
-          {
             href: 'https://royalfamilygaming.com',
             label: 'Royal Family Gaming',
             position: 'right',
