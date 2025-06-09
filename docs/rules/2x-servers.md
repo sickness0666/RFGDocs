@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# 2x Servers
+# 2x Server Rules
 
 2x Rules HERE

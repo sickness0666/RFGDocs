@@ -1,5 +1,4 @@
 ---
-title: Global Rules
 sidebar_position: 1
 ---
 

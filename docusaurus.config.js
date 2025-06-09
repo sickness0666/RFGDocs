@@ -126,8 +126,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Royal Family Gaming`,
       },
       prism: {
-        darkTheme: prismThemes.github,
-        theme: prismThemes.dracula,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };

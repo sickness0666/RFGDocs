@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# Vanilla Servers
+# Vanilla Server Rules
 
 Vanilla Rules HERE

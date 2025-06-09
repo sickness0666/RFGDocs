@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Vanilla
+# Vanilla Server Commands
 
 Vanilla commands here
