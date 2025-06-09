@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Rules Intro
+# Global Rules
 
 Below are the rules that are the same across all of the servers:\
 \
